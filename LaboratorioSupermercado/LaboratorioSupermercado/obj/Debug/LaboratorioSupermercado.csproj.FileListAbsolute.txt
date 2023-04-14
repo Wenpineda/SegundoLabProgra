@@ -1,0 +1,8 @@
+C:\Users\jordy\OneDrive\Documentos\JC\Guia\LaboratorioSupermercado\LaboratorioSupermercado\bin\Debug\LaboratorioSupermercado.exe.config
+C:\Users\jordy\OneDrive\Documentos\JC\Guia\LaboratorioSupermercado\LaboratorioSupermercado\bin\Debug\LaboratorioSupermercado.exe
+C:\Users\jordy\OneDrive\Documentos\JC\Guia\LaboratorioSupermercado\LaboratorioSupermercado\bin\Debug\LaboratorioSupermercado.pdb
+C:\Users\jordy\OneDrive\Documentos\JC\Guia\LaboratorioSupermercado\LaboratorioSupermercado\obj\Debug\LaboratorioSupermercado.csproj.AssemblyReference.cache
+C:\Users\jordy\OneDrive\Documentos\JC\Guia\LaboratorioSupermercado\LaboratorioSupermercado\obj\Debug\LaboratorioSupermercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\jordy\OneDrive\Documentos\JC\Guia\LaboratorioSupermercado\LaboratorioSupermercado\obj\Debug\LaboratorioSupermercado.csproj.CoreCompileInputs.cache
+C:\Users\jordy\OneDrive\Documentos\JC\Guia\LaboratorioSupermercado\LaboratorioSupermercado\obj\Debug\LaboratorioSupermercado.exe
+C:\Users\jordy\OneDrive\Documentos\JC\Guia\LaboratorioSupermercado\LaboratorioSupermercado\obj\Debug\LaboratorioSupermercado.pdb
